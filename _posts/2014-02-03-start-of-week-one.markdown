@@ -9,7 +9,9 @@ tags:
 - tealeaf
 ---
 OK, things are a little better with the blog.
-I think I have all links working and jekell is a little more under control.
+I think I have all links working and [jekyll][jekyll] is a little more under control.
 It was still way too much work :)  
 
 Now lets get to those week one challenges...
+
+[jekyll]:    http://jekyllrb.com

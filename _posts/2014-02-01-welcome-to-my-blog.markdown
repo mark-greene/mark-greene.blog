@@ -11,10 +11,10 @@ tags:
 - tealeaf
 ---
 This is the first post to my [Tealeaf Training] [1] blog.  I'm trying to use GitHub User Pages 
-and a Jekyll template for my blog.  So far it's been way too much work. I think I should have 
+and a [Jekyll template][jekyll] for my blog.  So far it's been way too much work. I think I should have 
 just used WordPress or Tumblr.
 
-I thought all I would need to know was markdown but its lots of HTML/CSS and Javascript.
+I thought markdown was all I would need to know but its lots of HTML/CSS and Javascript.
 I'm just not a Web developer... yet. 
 Please excuse the broken links while I figure out what I'm doing.
 
@@ -29,4 +29,5 @@ def print_cards cards
 end
 {% endhighlight %}
 
+[jekyll]:    http://jekyllrb.com
 [1]: http://www.gotealeaf.com "Introduction to Ruby and Web Development"
