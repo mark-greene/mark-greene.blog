@@ -1,0 +1,26 @@
+markdown: rdiscount
+pygments: true
+
+title: My Tealeaf Training blog
+
+url: http://mark-greene.github.io
+
+permalink: /:year/:month/:day/:title/
+
+author:
+    name: Mark Greene
+    email: mark.greee@yahoo.com
+    github: mark-greene
+    twitter: MarkBGreene
+    gravatar: http://www.gravatar.com/avatar/93ab561fc5272e5cc58fe43876c008c1.png
+
+comments:
+    provider: disqus
+    disqus:
+        short_name: mytealeaftrainingblog
+
+#analytics:
+#    provider: google
+#    google:
+#        tracking_id: ''
+#        domain: ''
